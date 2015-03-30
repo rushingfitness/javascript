@@ -1,3 +1,6 @@
+Forked from airbnb/javascript.
+A great reference file to help with javascript notation.
+
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # Airbnb JavaScript Style Guide() {
